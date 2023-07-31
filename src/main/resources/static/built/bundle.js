@@ -34148,7 +34148,7 @@ var EmployeeList = /*#__PURE__*/function (_React$Component2) {
           employee: employee
         });
       });
-      return /*#__PURE__*/React.createElement("table", null, /*#__PURE__*/React.createElement("tbody", null, /*#__PURE__*/React.createElement("tr", null, /*#__PURE__*/React.createElement("th", null, "Primer Nombre"), /*#__PURE__*/React.createElement("th", null, "Apellidos"), /*#__PURE__*/React.createElement("th", null, "Descripcion")), employees));
+      return /*#__PURE__*/React.createElement("table", null, /*#__PURE__*/React.createElement("tbody", null, /*#__PURE__*/React.createElement("tr", null, /*#__PURE__*/React.createElement("th", null, "Nombres"), /*#__PURE__*/React.createElement("th", null, "Apellidos"), /*#__PURE__*/React.createElement("th", null, "Descripcion")), employees));
     }
   }]);
   return EmployeeList;

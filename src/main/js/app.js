@@ -28,7 +28,7 @@ class EmployeeList extends React.Component{
 			<table>
 				<tbody>
 					<tr>
-						<th>Primer Nombre</th>
+						<th>Nombres</th>
 						<th>Apellidos</th>
 						<th>Descripcion</th>
 					</tr>
